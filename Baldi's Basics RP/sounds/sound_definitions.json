@@ -1,0 +1,11 @@
+{
+	  "music.baldi_sound": {
+	  "category": "music",
+	  "min_distance": 999,
+	  "sounds": [
+		{
+		"name": "sounds/music/baldi_sound"
+		}
+	  ]
+	}
+}

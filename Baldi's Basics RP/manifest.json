@@ -1,0 +1,26 @@
+//bridge-file-version: #0
+{
+	"format_version": 1,
+	"header": {
+		"description": "Baldi's Basics in Minecraft RP",
+		"name": "Happy math time. - by iMasterProX",
+		"uuid": "7ff73275-6b9a-42a6-96e7-217295f00887",
+		"version": [
+			0,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"description": "Baldi's Basics in Minecraft RP",
+			"type": "resources",
+			"uuid": "8edbb074-e5f6-4181-bff3-de6f91f61c74",
+			"version": [
+				0,
+				0,
+				1
+			]
+		}
+	]
+}

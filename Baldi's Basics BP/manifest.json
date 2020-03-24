@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Baldi's Basics in Minecraft BP",
+        "description": "Happy math time. - by iMasterProX",
+        "uuid": "a8839eb8-4eeb-454e-8ab0-49f68ba83d6f",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Baldi's Basics in Minecraft BP",
+            "type": "data",
+            "uuid": "6752410a-ed96-493d-8967-7ab78b298e7b",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "7ff73275-6b9a-42a6-96e7-217295f00887",
+            "version": [0, 0, 1]
+        }
+    ]
+}

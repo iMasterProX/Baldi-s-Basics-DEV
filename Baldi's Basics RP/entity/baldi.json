@@ -1,0 +1,26 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "baldi:baldi",
+			"materials": {
+				"default": "pig"
+			},
+			"textures": {
+				"default": "textures/entity/baldi"
+			},
+			"animations": {
+                "normal": "animation.baldi.normal"
+			},
+			"animation_controllers": [
+				{ "normal": "controller.animation.baldi.normal" }
+			  ],
+			"geometry": {
+				"default": "geometry.baldi"
+			},
+			"render_controllers": [
+				"controller.render.baldi"
+			]
+		}
+	}
+}
